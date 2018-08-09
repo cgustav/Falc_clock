@@ -7,8 +7,9 @@
 }
 
 body{
-    background: url(ti-bg.jpg) #000000;
+    background: url(img-bg-on.jpg) rgba(18, 48, 9, 0.5);
     background-size: cover;
+    background-repeat:repeat-y;
     color: #ffffff;
     font-size: 16px;
 }
